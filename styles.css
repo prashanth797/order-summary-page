@@ -91,6 +91,7 @@
  .plan a {
    margin-left: auto;
    font-size: 0.9rem;
+   color: hsl(245, 75%, 52%);
  }
 
  .plan a:hover {
